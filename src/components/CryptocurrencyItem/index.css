@@ -1,0 +1,37 @@
+/* Write your CSS code here */
+.item-list-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.item-container1 {
+  display: flex;
+  flex-direction: row;
+}
+.item-container2 {
+  display: flex;
+  flex-direction: row;
+  width: 170px;
+  justify-content: space-between;
+}
+.item-image1 {
+  width: 30px;
+  height: 30px;
+}
+.item-p1 {
+  color: #ffffff;
+  margin-left: 10px;
+  margin-top: 5px;
+}
+
+.item-p2 {
+  color: #ffffff;
+  margin-top: 0px;
+  margin-left: -5px;
+}
+.item-p3 {
+  color: #ffffff;
+  margin-top: 0px;
+  margin-left: 40px;
+}
